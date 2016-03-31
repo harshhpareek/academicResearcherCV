@@ -8,4 +8,4 @@ main-blx.bib
 *.bbl
 *.blg
 *.dvi
-
+*.synctex.gz
